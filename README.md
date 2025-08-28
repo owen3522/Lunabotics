@@ -29,6 +29,14 @@ Redesigned sidewall with larger cutouts<br/>
 <br />
 Connector to attach the sidewalls together as well as connect the grousers to the wheel. The top is rounded to fit the radius of the wheel.
 <img src="https://i.postimg.cc/tCsMvcWt/image.png" height=80% width=80%/>
+<br />
+<br />
+First wheel design assembly<br/>
+<img src="https://i.postimg.cc/RhkQDgxX/image.png" height=80% width=80%/>
+<br />
+<br />
+Grouser design with a rounded base to match the radius of the desired wheel<br/>
+<img src="https://i.postimg.cc/gJwgtX6c/image.png" height=80% width=80%/>
 
 <!--
  ```diff
