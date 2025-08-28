@@ -1,7 +1,7 @@
 <h1>NASA Lunabotics Challenge 2025</h1>
 
 <h2>About the Challenge</h2>
-- <b>Lunabotics provides accredited institutions of higher learning students an opportunity to apply the NASA systems engineering process to design and build a prototype Lunar construction robot</b>
+<b>Lunabotics provides accredited institutions of higher learning students an opportunity to apply the NASA systems engineering process to design and build a prototype Lunar construction robot.</b>
 
 <h2>My Role</h2>
 
