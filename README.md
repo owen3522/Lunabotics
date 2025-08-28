@@ -27,7 +27,7 @@ Redesigned sidewall with larger cutouts<br/>
 <img src="https://i.postimg.cc/prfpPCn0/image.png" height=80% width=80%/>
 <br />
 <br />
-Connector attaches sidewalls together as well as connects grousers to the wheel. The top is rounded to fit the radius of the wheel.
+Connector attaches sidewalls together as well as connects grousers to the wheel. The top is rounded to fit the radius of the wheel.<br/>
 <img src="https://i.postimg.cc/tCsMvcWt/image.png" height=80% width=80%/>
 <br />
 <br />
