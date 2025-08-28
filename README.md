@@ -70,6 +70,8 @@ Old wheels (left) vs. new production wheels (right)<br/>
 <p align="center">
  
 <img src="https://i.postimg.cc/vBBZJMQZ/image.png" height=80% width=80%/>
+<br />
+<br />
 Rover on the simulated lunar surface<b/>
 <img src="https://i.postimg.cc/xTScdw5t/image.png" height=80% width=80%/>
 <img src="https://i.postimg.cc/pLWrfKgj/image.png" height=80% width=80%/>
